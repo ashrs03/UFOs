@@ -8,7 +8,7 @@ To begin with, the steps involve understanding UFO sighting data that is stored 
 
 The expectation is that a baseline dynamic website would display a tabular form of data and this can be filtered with search function for date criteria. Once the additional filters are added the UFO sightings data can be filtered based on any of the five criteria or multiplecriterias so that one can get a dynamic view of the UFO sightings data, based on the data file on which the filters are applied. 
 
-## Explain the purpose of this analysis: 
+## Purpose of analysis: 
 
 UFO sighting is a facinating topic and has interested the inhabitants on Earth on the extra- terresterial beings and foregin objects that have been sighted in several regions. Dana is researching the data and while the sample data is a defined number of rows and columns, the idea is to apply similar logic in converting Javascript array of data into table and filter the data so that it can be provide more insights on underlying patterns of UFO sightings. 
 
