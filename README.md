@@ -1,14 +1,14 @@
 # UFOs
 <img width="173" alt="UFOsighting" src="https://user-images.githubusercontent.com/42523379/202973032-c9f0ee19-cc05-4cdb-826d-2d5ea6d2e764.PNG">
 
-## Overview of Project: 
+## Overview of Project
 The purpose of this project is to provide indepth analysis and assist Dana, who has been researching the UFO sightings data, and achieve the end goal of developing  enhanced website so that the user can filter data based on multiple criteria. 
 
 To begin with, the steps involve understanding UFO sighting data that is stored as list or Javascript array. Process steps include understanding the Javascripts functions which are very versatile, writing index.html steps, update the code, work on storyboard building, and develop a dynamic website using the combination of  HTML, CSS and bootstrap grid system that helps to organize a webpage's content into containers, rows, and columns. 
 
 The expectation is that a baseline dynamic website would display a tabular form of data and this can be filtered with search function for date criteria. Once the additional filters are added the UFO sightings data can be filtered based on any of the five criteria or multiplecriterias so that one can get a dynamic view of the UFO sightings data, based on the data file on which the filters are applied. 
 
-## Purpose of analysis: 
+## Purpose of Analysis
 
 UFO sighting is a facinating topic and has interested the inhabitants on Earth on the extra- terresterial beings and foregin objects that have been sighted in several regions. Dana is researching the data and while the sample data is a defined number of rows and columns, the idea is to apply similar logic in converting Javascript array of data into table and filter the data so that it can be provide more insights on underlying patterns of UFO sightings. 
 
@@ -42,7 +42,7 @@ D. Multiple criteria search
 
 Note that one can use this as a baseline website and html code can be tweaked to add even more criteria and perform similar search across the criterias. 
 
-## Summary: 
+## Summary
 
 Javascript function serves as a useful tool, when it comes to web page design and users can view data in a tabular format along with relevant details within a weblink and use the enhanced filter functions to display the data / analyze it based on the filter criteria. 
 
